@@ -1,1 +1,1 @@
-colors_in_the_rainbow = ["red", ""]
+colors_in_the_rainbow = ["red", "orange","yellow", ]
